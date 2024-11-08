@@ -97,8 +97,8 @@ pip install -r requirements.txt
 
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/your-username/traffic-sign-recognition.git
-   cd traffic-sign-recognition
+   git clone https://github.com/preethambingi/Traffic_Sign_Recognition_Using_Deep_Learning.git
+   cd Traffic_Sign_Recognition_Using_Deep_Learning
    ```
 
 2. **Install Dependencies**:
