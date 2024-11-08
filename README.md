@@ -29,6 +29,28 @@ The dataset used is the [German Traffic Sign Recognition Benchmark (GTSRB)](http
 
 The dataset provides a realistic scenario for traffic sign recognition, making it ideal for training deep learning models for real-world applications.
 
+## Folder Structure
+
+Ensure that the `GTSRB` folder is organized as follows:
+
+```
+Traffic_Sign_Recognition_Using_Deep_Learning/
+├── GTSRB/
+│   ├── META/                 # Metadata about the dataset
+│   ├── TEST/                 # Test images folder
+│   ├── TRAIN/                # Training images folder
+│   │   ├── 0/                # Class 0 images
+│   │   ├── 1/                # Class 1 images
+│   │   ├── 2/                # Class 2 images
+│   │   └── ...               # Other classes (0–42)
+│   ├── Meta.csv              # Metadata file
+│   ├── Test.csv              # Test data file
+│   └── Train.csv             # Training data file
+├── Traffic_Sign_Recognition.ipynb
+├── README.md
+└── requirements.txt
+```
+
 ### Downloading the Dataset
 
 The GTSRB dataset can be downloaded from Kaggle using the following link: [GTSRB - German Traffic Sign Recognition Benchmark](https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign).
