@@ -46,7 +46,7 @@ Traffic_Sign_Recognition_Using_Deep_Learning/
 │   ├── Meta.csv              # Metadata file
 │   ├── Test.csv              # Test data file
 │   └── Train.csv             # Training data file
-├── Traffic_Sign_Recognition.ipynb
+├── Traffic_Sign_Recognition_Using_Deep_Learning.ipynb
 ├── README.md
 └── requirements.txt
 ```
