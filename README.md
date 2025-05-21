@@ -1,4 +1,4 @@
-# Traffic_Sign_Recognition_Using_Deep_Learning
+# Traffic Sign Recognition Using Deep Learning
 
 This project uses a deep learning model to classify images of traffic signs from the German Traffic Sign Recognition Benchmark (GTSRB) dataset. The model is built using Convolutional Neural Networks (CNN) and achieves high accuracy in recognizing various types of traffic signs, supporting applications in autonomous driving and driver assistance systems (ADAS).
 
